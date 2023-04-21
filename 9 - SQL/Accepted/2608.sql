@@ -1,0 +1,1 @@
+Select max(PRICE), min(PRICE) from PRODUCTS
